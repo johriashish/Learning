@@ -1,3 +1,5 @@
 MY FIRST FILE IN GIT
 
-THIS CHANGE SHOULD BE APPLIED IN FirstBranch
+THIS CHANGE SHOULD BE APPLIED IN FirstBranch.
+This is created from firstBranch and checked out to secondBranch.
+This change should be done only in secondBranch.
